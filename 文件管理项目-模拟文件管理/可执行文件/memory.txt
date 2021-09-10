@@ -1,0 +1,10 @@
+0 此电脑 1
+00 本地磁盘C 1
+000 系统配置文件 0
+001 CFile2.txt 0
+002 CFile3.txt 0
+01 本地磁盘D 1
+010 DFile1.txt 0
+011 DFile2.txt 0
+02 file_root1.txt 0
+03 file_root2.txt 0
